@@ -8,6 +8,7 @@ Install the tap and the desired components
 
 ```
 brew install ansible-middleware/tap/<formulae>
+```
 
 OR
 
