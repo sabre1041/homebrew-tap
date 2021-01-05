@@ -1,8 +1,8 @@
 class Jcliff < Formula
   desc "Manage JBossAS 7/EAP6/EAP7/Wildfly with modular configuration files"
   homepage "https://github.com/bserdar/jcliff"
-  url "https://github.com/bserdar/jcliff/releases/download/v2.12.6/jcliff-2.12.6-dist.tar.gz"
-  sha256 "827ccf28653ecea9e97b6f208685a29ce24912087b8c2b52a15b4e4b3837fbef"
+  url "https://github.com/bserdar/jcliff/releases/download/v2.12.7/jcliff-2.12.7-dist.tar.gz"
+  sha256 "673da53e405fad4a542f05c58386970c9af6e82d092cee3b6bb24a39b8209a35"
 
   bottle :unneeded
 
